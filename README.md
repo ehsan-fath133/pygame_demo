@@ -1,5 +1,5 @@
 # Python Flappy Bird
-(https://img.shields.io/badge/python-3.12-blue)
+[]((https://img.shields.io/badge/python-3.12-blue))
 A simple Flappy Bird clone built with python and pygame
 
 ## Table Of Contents
